@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "0e8366443f73de72",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba912a92c9d0da5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78804f04a46f9937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LearnCPP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LearnCPP"
+            }
+          },
+          {
+            "id": "fc7710356b36e9d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/Mnemonics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mnemonics"
+            }
+          },
+          {
+            "id": "192c4c4c229d89a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/Stage 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stage 3"
+            }
+          },
+          {
+            "id": "88348e7c1752c2e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS Components/Buffer Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buffer Layer"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acad7c8edb01ea4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "57127c0d4920edcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c80602812e2597c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6143108aaa8e4c34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82e6e4381fd67090",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a220abcf22db3c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0c0330b1c281051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3769f702e562248c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "30c7482a5a93df01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "20519f2a1ce21763",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ecdae149e91e88ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "192c4c4c229d89a6",
+  "lastOpenFiles": [
+    "LearnCPP.md",
+    "DBMS Components/Functions.md",
+    "DBMS/Stage 3.md",
+    "DBMS/Stage 1.md",
+    "Pasted image 20241225214203.png",
+    "DBMS Components/Buffer Layer.md",
+    "DBMS Components/Constants.md",
+    "DBMS/Stage 2.md",
+    "DBMS/Untitled.md",
+    "DBMS Components",
+    "Pasted image 20241223235026.png",
+    "Pasted image 20241223234945.png",
+    "DBMS/Mnemonics.md",
+    "DBMS"
+  ]
+}
